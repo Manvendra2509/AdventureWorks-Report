@@ -15,7 +15,7 @@ Power BI Desktop
 ![Data Model View](Screenshots/Model-View.png)
 
 ## Exec Summary Report Page
-![Exec Summary Report Page](https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Exec-Summary-Report-Page.png)
+<img src = "https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Exec-Summary-Report-Page.png" />
 
 ## Product Detail Report Page
 ![Product Detail Report Page](https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Product-Detail-Report-Page.png)
