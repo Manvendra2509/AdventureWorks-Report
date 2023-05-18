@@ -12,7 +12,7 @@ Power BI Desktop
 2. Install Power BI Desktop if you haven't already done so.
 3. Double-click on AdventureWorks_Report.pbix file.
 ## Data Model View
-![Data Model View](https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Model-View.png)
+![Data Model View](Screenshots/Model-View.png)
 
 ## Exec Summary Report Page
 ![Exec Summary Report Page](https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Exec-Summary-Report-Page.png)
