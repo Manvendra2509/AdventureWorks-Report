@@ -7,10 +7,14 @@ The report providers in-depth analysis of the dataset and visualises the insight
 ## Prerequisites for running the project:
 Power BI Desktop
 
+## Data Model View
 ![Data Model View](https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Model-View.png)
 
-![Exec Summary Report Page](https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Model-View.png)
+## Exec Summary Report Page
+![Exec Summary Report Page](https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Exec-Summary-Report-Page.png)
 
+## Product Detail Report Page
 ![Product Detail Report Page](https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Product-Detail-Report-Page.png)
 
+## Customer Detail Report Page
 ![Customer Detail Report Page](https://github.com/Manvendra2509/AdventureWorks-Report/blob/main/Screenshots/Customer-Detail-Report-Page.png)
